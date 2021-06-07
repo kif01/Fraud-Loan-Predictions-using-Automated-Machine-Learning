@@ -13,9 +13,10 @@ There are 3 steps to create your account: <br>
 <img width="1188" alt="Screen Shot 2021-05-31 at 11 25 01 AM" src="https://user-images.githubusercontent.com/15332386/120156441-0769d980-c203-11eb-8cb3-29f4a8d5616a.png">
 
 # Assets
-- Presentation slides are available in this repo as a pdf file.
+
 - Click [Here](https://developer.ibm.com/patterns/fraud-prediction-using-autoai/) for the Hands-On part that shows all the steps for this workshop. <br>
 - Click [Here](https://github.com/IBM/predict-fraud-using-auto-ai) for the ressources that will be used for the Hands-On part.<br>
+- Presentation slides are available in this repo as a pdf file.<br><br>
 
 - Click [Here](https://ibm.biz/MEA-DataAI-Survey) to fill the survey (We really appreciate any feedback :D) <br>
 - Follow Our [Meetup Page](https://www.meetup.com/IBM-Cloud-MEA/) to get updates on our events <br>
