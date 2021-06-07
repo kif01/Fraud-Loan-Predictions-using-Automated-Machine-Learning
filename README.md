@@ -15,7 +15,7 @@ There are 3 steps to create your account: <br>
 # Assets
 
 - Click [Here](https://developer.ibm.com/patterns/fraud-prediction-using-autoai/) for the Hands-On part that shows all the steps for this workshop. <br>
-- Click [Here](https://github.com/IBM/predict-fraud-using-auto-ai) for the ressources that will be used for the Hands-On part.<br>
+- Click [Here](https://github.com/IBM/predict-fraud-using-auto-ai) for the resources used in the Hands-On part.<br>
 - Presentation slides are available in this repo as a pdf file.<br><br>
 
 - Click [Here](https://ibm.biz/MEA-DataAI-Survey) to fill the survey (We really appreciate any feedback :D) <br>
